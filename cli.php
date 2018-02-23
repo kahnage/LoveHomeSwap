@@ -6,8 +6,7 @@
     "July", "August", "September",
     "October", "November", "December"
 	);
-	 //unset($argv[0]);
-	 //print_r($argv);
+
 	$valid_year = false;
 	$input_year_label = "Please enter year ('yyyy'): ";
 	while (!$valid_year)
